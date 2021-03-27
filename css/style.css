@@ -32,3 +32,41 @@
     color: #FFFFFF;
 }
 /* section #1 */
+.container {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 76.6px;
+}
+.left-block {
+    width: 468px;
+    margin: auto;
+}
+.sec2-p1 {
+    width: 468px;
+    height: 186px;
+    font-size: 50px;
+    font-family: 'Lato';
+}
+.sec2-p2 {
+    width: 457px;
+    height: 128px;
+    font-size: 16px;
+    font-family: 'Poppins';
+}
+.sec2-border {
+    width: 307px;
+    height: 72px;
+    background-color: #325DFF;
+    border-radius: 36px;
+    position: relative;
+}
+.sec2-h3 {
+    font-size: 14px;
+    font-family: 'Lato';
+    position: absolute;
+    color: #FFFFFF;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% , -50%);
+}
+/* sectiopm #2 */
