@@ -1,0 +1,34 @@
+/* HEADER */
+.background-img {
+    background-image: url(../images/Group\ 5.jpg);
+    width: 100%;
+    height: 900px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.navigation {
+    padding: 70.3px 142.6px 0 0;
+}
+.nav-ul {
+    display: flex;
+    justify-content: flex-end;
+}
+.nav-li {
+    padding-left: 30px;
+    font-size: 15px;
+    font-family: 'Poppins';
+    color: #D9F0FF;
+}
+.Landings {
+    padding-right: 607.4px;
+    font-size: 30px;
+    font-family: 'Poppins';
+}
+.header-h1 {
+    display: flex;
+    font-size: 100px;
+    justify-content: center;
+    margin-top: 305px;
+    color: #FFFFFF;
+}
+/* section #1 */
